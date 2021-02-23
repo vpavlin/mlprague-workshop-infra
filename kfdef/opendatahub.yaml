@@ -50,6 +50,13 @@ spec:
         path: jupyterhub/jupyterhub
     name: jupyterhub
   - kustomizeConfig:
+      overlays:
+      - workshop
+      repoRef:
+        name: workshop-manifests
+        path: jupyterhub/jupyterhub
+    name: jupyterhub
+  - kustomizeConfig:
       repoRef:
         name: manifests
         path: odhargo/cluster
@@ -79,4 +86,6 @@ spec:
     uri: https://github.com/kubeflow/manifests/archive/v1.2-branch.tar.gz
   - name: manifests
     uri: https://github.com/opendatahub-io/odh-manifests/tarball/master
+  - name: workshop-manifests
+    uri: https://github.com/vpavlin/mlprague-workshop-infra/tarball/main
   version: master

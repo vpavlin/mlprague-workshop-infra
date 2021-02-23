@@ -3,5 +3,5 @@ kind: Kustomization
 bases:
 - ../../base
 
-resources:
+patchesStrategicMerge:
 - jupyterhub-configmap.yaml
