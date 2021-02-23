@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  labels:
+    app: jupyterhub
+  name: jupyterhub-cfg
+data:
+  jupyterhub_config.py: ""
+  jupyterhub_admins: "admin,opentlc-mgr"
+  gpu_mode: ""
+  singleuser_pvc_size: 10Gi

@@ -1,0 +1,1601 @@
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user1
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user2
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user3
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user4
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user5
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user6
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user7
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user8
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user9
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user10
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user11
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user12
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user13
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user14
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user15
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user16
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user17
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user18
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user19
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user20
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user21
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user22
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user23
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user24
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user25
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user26
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user27
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user28
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user29
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user30
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user31
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user32
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user33
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user34
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user35
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user36
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user37
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user38
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user39
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user40
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user41
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user42
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user43
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user44
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user45
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user46
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user47
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user48
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user49
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user50
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user51
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user52
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user53
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user54
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user55
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user56
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user57
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user58
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user59
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user60
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user61
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user62
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user63
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user64
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user65
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user66
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user67
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user68
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user69
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user70
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user71
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user72
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user73
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user74
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user75
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user76
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user77
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user78
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user79
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user80
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user81
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user82
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user83
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user84
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user85
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user86
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user87
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user88
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user89
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user90
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user91
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user92
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user93
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user94
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user95
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user96
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user97
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user98
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user99
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user100
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user101
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user102
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user103
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user104
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user105
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user106
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user107
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user108
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user109
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user110
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user111
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user112
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user113
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user114
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user115
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user116
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user117
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user118
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user119
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user120
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user121
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user122
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user123
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user124
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user125
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user126
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user127
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user128
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user129
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user130
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user131
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user132
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user133
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user134
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user135
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user136
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user137
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user138
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user139
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user140
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user141
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user142
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user143
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user144
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user145
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user146
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user147
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user148
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user149
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user150
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user151
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user152
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user153
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user154
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user155
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user156
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user157
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user158
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user159
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user160
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user161
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user162
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user163
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user164
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user165
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user166
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user167
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user168
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user169
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user170
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user171
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user172
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user173
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user174
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user175
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user176
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user177
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user178
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user179
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user180
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user181
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user182
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user183
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user184
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user185
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user186
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user187
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user188
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user189
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user190
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user191
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user192
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user193
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user194
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user195
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user196
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user197
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user198
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user199
+  labels:
+    project: mlprague
+spec:
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workshop-user200
+  labels:
+    project: mlprague
+spec:

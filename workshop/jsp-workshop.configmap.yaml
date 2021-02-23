@@ -1,0 +1,30 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: jsp-workshop
+  labels:
+    jupyterhub: singleuser-profiles
+data:
+  jupyterhub-singleuser-profiles.yaml: |
+    profiles:
+    - name: globals
+      env:
+        - name: S3_ENDPOINT_URL
+          value: http://ceph-nano-0
+        - name: AWS_ACCESS_KEY_ID
+          valueFrom:
+            secretKeyRef:
+              key: AWS_ACCESS_KEY_ID
+              name: ceph-nano-credentials
+        - name: AWS_SECRET_ACCESS_KEY
+          valueFrom:
+            secretKeyRef:
+              key: AWS_SECRET_ACCESS_KEY
+              name: ceph-nano-credentials
+      resources:
+        requests:
+          memory: 1Gi
+          cpu: 500m
+        limits:
+          memory: 2Gi
+          cpu: 1
