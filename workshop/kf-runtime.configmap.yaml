@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: kf-runtime-config
+data:
+  kf-runtime.json: |
+    {
+      "display_name": "Kubeflow Pipelines",
+      "metadata": {
+        "engine": "Tekton",
+        "api_endpoint": "http://ml-pipeline-ui-kubeflow.apps.cluster-9566.9566.example.opentlc.com/pipeline",
+        "cos_endpoint": "http://minio-kubeflow.apps.cluster-9566.9566.example.opentlc.com/",
+        "cos_bucket": "mlprague",
+        "cos_password": "minio123",
+        "cos_username": "minio",
+        "tags": []
+      },
+      "schema_name": "kfp"
+    }

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-if [ "${NS_PER_USER}" == "1" ]; then
+if true; then
   echo "" > workshop/namespaces.yaml
   echo "" > workshop/rolebindings.yaml
 
@@ -65,8 +65,27 @@ subjects:
 - kind: Group
   name: system:authenticated
 EOF
-
 fi
+
+
+echo "" > workshop/jsp.configmaps.yaml
+for user in `seq 1 200`; do
+cat <<EOF >>workshop/jsp.configmaps.yaml
+---
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: jupyterhub-singleuser-profile-user${user}
+  labels:
+    app: jupyterhub
+data:
+  profile: |
+    env: {}
+    gpu: '0'
+    last_selected_image: s2i-lab-elyra:mlprague
+    last_selected_size: ''
+EOF
+done
 
 echo "Deploying Open Data Hub Operator"
 oc apply -f odh-operator/

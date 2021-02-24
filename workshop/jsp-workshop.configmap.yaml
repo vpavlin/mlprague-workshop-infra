@@ -10,21 +10,33 @@ data:
     - name: globals
       env:
         - name: S3_ENDPOINT_URL
-          value: http://ceph-nano-0
+          value: http://minio-kubeflow.apps.cluster-9566.9566.example.opentlc.com/
         - name: AWS_ACCESS_KEY_ID
-          valueFrom:
-            secretKeyRef:
-              key: AWS_ACCESS_KEY_ID
-              name: ceph-nano-credentials
+          value: minio
         - name: AWS_SECRET_ACCESS_KEY
-          valueFrom:
-            secretKeyRef:
-              key: AWS_SECRET_ACCESS_KEY
-              name: ceph-nano-credentials
+          value: minio123
+        - name: OBJECT_STORAGE_ENDPOINT_URL
+          value: http://minio-kubeflow.apps.cluster-9566.9566.example.opentlc.com/
+        - name: OBJECT_STORAGE_BUCKET_NAME
+          value: mlprague
+      volumes:
+      - name: jupyter-dir
+        mountPath: .local/share/jupyter/
+        emptyDir: {}
+      - name: runtime-dir
+        mountPath: .local/share/jupyter/metadata/
+        emptyDir: {}
+      - name: kf-runtime
+        configMap:
+          name: kf-runtime-config
+          items:
+          - key: kf-runtime.json
+            path: kf-runtime.json
+        mountPath: .local/share/jupyter/metadata/runtimes/
       resources:
         requests:
-          memory: 1Gi
-          cpu: 500m
-        limits:
           memory: 2Gi
           cpu: 1
+        limits:
+          memory: 4Gi
+          cpu: 2
